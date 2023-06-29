@@ -1,0 +1,13 @@
+
+form {
+    border: 2px solid black;
+}
+
+form{
+    background-image: url(https://images.unsplash.com/photo-1554679665-f5537f187268?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHJlc3RhdXJhbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.d-none{
+    display: none;
+}
